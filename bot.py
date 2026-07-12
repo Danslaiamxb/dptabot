@@ -31,7 +31,7 @@ logger = logging.getLogger(__name__)
 # ========== НАСТРОЙКИ ==========
 # На Railway задаются через Variables в панели проекта.
 # Локально можно оставить как есть — сработают значения по умолчанию ниже.
-BOT_TOKEN = os.getenv("BOT_TOKEN", "ВСТАВЬ_СЮДА_ТОКЕН_ОТ_BOTFATHER")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8622567639:AAEw-Zh6UDN7ROxjlI3AY_rfol67StN0Ilc")
 STEAM_ID32 = os.getenv("STEAM_ID32", "1125119990")
 # =============================================================
 
